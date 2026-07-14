@@ -5,11 +5,12 @@
     flex-wrap: wrap;
 }
 
-.img {
-    width:33px;
-    height:auto;
+.flexbox-item {
+    width:15%;
+    margin:10px
 }
 
-.flexbox-item {
-    margin:5px;
+.flexbox-item img {
+    width:100%;
+    height:auto;
 }
